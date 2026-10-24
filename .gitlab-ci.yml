@@ -3,7 +3,7 @@ stages:
   - build
 
 lint:
-  image: node:21-alpine
+  image: node:26.12.1-alpine
   stage: lint
   script:
    - npm install

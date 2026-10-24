@@ -6,7 +6,7 @@ This project contains the API to provide the [EVECompanion iOS App](https://gith
 
 ## Requirements
 
-- Node.js 21
+- Node.js 26.12.1 or later in the 26.x release line
 
 ## Configuration
 
